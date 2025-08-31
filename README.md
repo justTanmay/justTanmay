@@ -63,11 +63,6 @@ public class Developer {
 - 📊 Developed strong foundation in core computer science concepts
 - 🔧 Built practical experience through hands-on projects and coding challenges
 
-## 🤝 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com/in/tanmaythakare)
-- 📧 Feel free to reach out for collaborations or just a chat about tech!
-
 ---
 
 ⭐️ **"Code. Learn. Iterate. Grow."** ⭐️
