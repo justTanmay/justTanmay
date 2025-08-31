@@ -68,10 +68,6 @@ public class Developer {
 - 💼 [LinkedIn](https://linkedin.com/in/tanmaythakare)
 - 📧 Feel free to reach out for collaborations or just a chat about tech!
 
-## 📊 Profile Views
-
-![](https://komarev.com/ghpv/?username=tanmaythakare&color=brightgreen&style=flat-square)
-
 ---
 
 ⭐️ **"Code. Learn. Iterate. Grow."** ⭐️
