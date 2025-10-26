@@ -27,10 +27,6 @@ I'm a passionate developer driven by curiosity about how systems function and a 
 - Problem Solving & Optimization
 - Code Debugging & Analysis
 
-## 📈 GitHub Stats
-
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmaythakare&show_icons=true&theme=radical)
-
 ## 🎯 Current Focus
 
 - 🔍 Deep diving into advanced Data Structures and Algorithms
