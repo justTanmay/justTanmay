@@ -1,66 +1,109 @@
-# Hi there, I'm Tanmay Thakare! 👋
+# Hi, I'm Tanmay Thakare 👋
 
-## 🚀 About Me
+💻 Passionate Full-Stack Developer | 🧠 Problem Solver | ⚙️ System Thinker  
 
-I'm a passionate developer driven by curiosity about how systems function and a love for solving meaningful problems. Whether it's debugging intricate code, analyzing algorithms, or breaking down system architectures, I enjoy uncovering the underlying logic and crafting efficient, elegant solutions.
-
-- 🔭 Currently working on expanding my technical toolkit through practical side projects
-- 🌱 Always learning new technologies and exploring different frameworks
-- 💡 Passionate about writing clean, efficient, and maintainable code
-- 📍 Based in India
-- ⚡ Fun fact: I believe every problem has an elegant solution waiting to be discovered!
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Tools & Concepts
-- Data Structures & Algorithms
-- System Architecture Design
-- Problem Solving & Optimization
-- Code Debugging & Analysis
-
-## 🎯 Current Focus
-
-- 🔍 Deep diving into advanced Data Structures and Algorithms
-- 🏗️ Building practical projects to solve real-world problems
-- 📚 Exploring new programming paradigms and design patterns
-- 🤝 Looking to collaborate on projects with meaningful impact
-
-## 💻 What I'm Working On
-
-```java
-public class Developer {
-    private String name = "Tanmay Thakare";
-    private String[] skills = {"Java", "C++", "DSA", "Problem Solving"};
-    private String currentGoal = "Building impactful software solutions";
-    
-    public void code() {
-        while (learning) {
-            explore(newTechnologies);
-            build(practicalProjects);
-            solve(challengingProblems);
-        }
-    }
-}
-```
-
-## 🏆 Achievements
-
-- ✅ Completed intensive placement preparation training in DSA and problem-solving
-- 🎓 Earned Java & DSA certification from industry training program
-- 📊 Developed strong foundation in core computer science concepts
-- 🔧 Built practical experience through hands-on projects and coding challenges
+I love understanding how systems work under the hood and building clean, efficient software to solve real problems. From algorithms to architecture, I enjoy turning complex ideas into elegant solutions.
 
 ---
 
-⭐️ **"Code. Learn. Iterate. Grow."** ⭐️
+## 🧠 About Me
 
-*Always open to interesting conversations and collaboration opportunities!*
+- 🔭 Currently building full-stack projects with real-world impact  
+- 🌱 Deep diving into Data Structures & Algorithms  
+- 💡 Passionate about clean code and scalable system design  
+- 📍 Based in India  
+- ⚡ Fun fact: I believe every problem has an elegant solution waiting to be discovered  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+- Java
+- C++
+- C
+- Python
+- TypeScript
+- HTML/CSS
+
+### ⚙️ Backend
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
+- PostgreSQL
+- JPA / Hibernate
+
+### 🎨 Frontend
+- Angular
+- TypeScript
+- Responsive UI Design
+- Charts & Data Visualization
+
+### 🧩 Concepts
+- Data Structures & Algorithms
+- System Design
+- OOP & Design Patterns
+- Database Design
+- Debugging & Optimization
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Life OS — Personal Productivity & Knowledge Management
+A full-stack second-brain app to manage tasks, notes, and ideas with an interactive knowledge graph.
+
+**Key Features**
+- JWT Authentication & Multi-User Support  
+- Task & Notes Management  
+- Note Linking with Backlinks  
+- Interactive Knowledge Graph Visualization  
+- Full-Text Search  
+
+**Tech:** Spring Boot • Angular • PostgreSQL • Force Graph
+
+---
+
+### 💸 DailySpend — Personal Finance Tracker
+A finance management system to track expenses, income, and money lent/borrowed.
+
+**Key Features**
+- Account & Transaction Management  
+- People Ledger (who owes whom)  
+- Reports & Spending Analytics  
+- Category-wise Insights  
+- CSV Export  
+
+**Tech:** Spring Boot • Angular • PostgreSQL • Flyway • Charts
+
+---
+
+## 📊 DSA & Coding Journey
+
+- 🧩 Solved **120+ problems** on LeetCode  
+- 🔥 Strong focus on Arrays, Hashing, DP, and Problem Solving  
+- 🏅 Earned coding streak badges  
+
+I enjoy tackling challenging algorithmic problems and optimizing solutions.
+
+---
+
+## 🎯 Current Goals
+
+- 🧠 Master Advanced DSA & System Design  
+- 🏗️ Build production-ready applications  
+- 🤝 Collaborate on impactful projects  
+- 🚀 Prepare for top product-based companies  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/tanmaythakare  
+- 🐙 GitHub: https://github.com/justTanmay  
+- ✉️ Email: tanmayrthakare@gmail.com  
+
+---
+
+⭐️ *Code. Learn. Iterate. Grow.*
