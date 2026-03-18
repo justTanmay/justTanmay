@@ -71,7 +71,6 @@ A finance management system to track expenses, income, and money lent/borrowed.
 - People Ledger (who owes whom)  
 - Reports & Spending Analytics  
 - Category-wise Insights  
-- CSV Export  
 
 **Tech:** Spring Boot • Angular • PostgreSQL • Flyway • Charts
 
