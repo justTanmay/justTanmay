@@ -1,106 +1,93 @@
 # Hi, I'm Tanmay Thakare 👋
 
-💻 Passionate Full-Stack Developer | 🧠 Problem Solver | ⚙️ System Thinker  
+💻 Full-Stack Developer (Backend-Focused) | 🧠 Problem Solver
 
-I love understanding how systems work under the hood and building clean, efficient software to solve real problems. From algorithms to architecture, I enjoy turning complex ideas into elegant solutions.
+I build scalable backend systems and full-stack applications using **Java, Spring Boot, and Angular**.
+Focused on writing clean code, designing efficient APIs, and solving real-world problems.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building full-stack projects with real-world impact  
-- 🌱 Deep diving into Data Structures & Algorithms  
-- 💡 Passionate about clean code and scalable system design  
-- 📍 Based in India  
-- ⚡ Fun fact: I believe every problem has an elegant solution waiting to be discovered  
+* 🔭 Building real-world full-stack applications
+* 🌱 Practicing Data Structures & Algorithms (120+ problems solved)
+* 💡 Interested in backend development and system design
+* 📍 India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Languages:**
+Java • C++ • C • Python
 
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend:**
+Spring Boot • Spring Security • JWT • PostgreSQL
 
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+**Frontend:**
+Angular • TypeScript
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Tools:**
+Git • Docker • VS Code
 
-### 🧩 Concepts
-- Data Structures & Algorithms
-- System Design
-- OOP & Design Patterns
-- Database Design
-- Debugging & Optimization
+**Core Concepts:**
+DSA • REST APIs • OOP • Database Design
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🧠 Life OS — Personal Productivity & Knowledge Management
-A full-stack second-brain app to manage tasks, notes, and ideas with an interactive knowledge graph.
+### 🧠 Life OS — Productivity & Knowledge Management System
+
+A full-stack application to manage tasks, notes, and connected ideas.
 
 **Key Features**
-- JWT Authentication & Multi-User Support  
-- Task & Notes Management  
-- Note Linking with Backlinks  
-- Interactive Knowledge Graph Visualization  
-- Full-Text Search  
 
-**Tech:** Spring Boot • Angular • PostgreSQL • Force Graph
+* JWT-based authentication (multi-user system)
+* Task and notes management
+* Note linking with backlinks
+* Search functionality
+
+**Tech:** Spring Boot • Angular • PostgreSQL
 
 ---
 
 ### 💸 DailySpend — Personal Finance Tracker
-A finance management system to track expenses, income, and money lent/borrowed.
+
+Application to track expenses, income, and personal transactions.
 
 **Key Features**
-- Account & Transaction Management  
-- People Ledger (who owes whom)  
-- Reports & Spending Analytics  
-- Category-wise Insights  
 
-**Tech:** Spring Boot • Angular • PostgreSQL • Flyway • Charts
+* Account and transaction management
+* Track money lent/borrowed
+* Basic analytics and reports
 
----
-
-## 📊 DSA & Coding Journey
-
-- 🧩 Solved **120+ problems** on LeetCode  
-- 🔥 Strong focus on Arrays, Hashing, DP, and Problem Solving  
-- 🏅 Earned coding streak badges  
-
-I enjoy tackling challenging algorithmic problems and optimizing solutions.
+**Tech:** Spring Boot • Angular • PostgreSQL
 
 ---
 
-## 🎯 Current Goals
+## 📊 DSA
 
-- 🧠 Master Advanced DSA & System Design  
-- 🏗️ Build production-ready applications  
-- 🤝 Collaborate on impactful projects  
-- 🚀 Prepare for top product-based companies  
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/tanmaythakare  
-- 🐙 GitHub: https://github.com/justTanmay  
-- ✉️ Email: tanmayrthakare@gmail.com  
+* Solved **120+ problems** on LeetCode
+* Focus on Arrays, Hashing, and Dynamic Programming
+* Regular problem-solving practice
 
 ---
 
-⭐️ *Code. Learn. Iterate. Grow.*
+## 🎯 Current Focus
+
+* Strengthening backend development skills
+* Learning system design fundamentals
+* Building production-ready applications
+
+---
+
+## 📫 Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/tanmaythakare
+* 🐙 GitHub: https://github.com/justTanmay
+* ✉️ Email: [tanmayrthakare@gmail.com](mailto:tanmayrthakare@gmail.com)
+
+---
+
+⭐️ *Always learning. Always building.*
