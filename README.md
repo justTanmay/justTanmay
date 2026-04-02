@@ -13,7 +13,6 @@ Focused on writing clean code, designing efficient APIs, and solving real-world 
 * 🌱 Practicing Data Structures & Algorithms (120+ problems solved)
 * 💡 Interested in backend development and system design
 * 📍 India
-* 
 ---
 ## 🛠️ Tech Stack
 
