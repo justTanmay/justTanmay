@@ -1,6 +1,6 @@
 # Hi, I'm Tanmay Thakare 👋
 
-💻 Full-Stack Developer (Backend-Focused) | 🧠 Problem Solver
+💻 Full-Stack Java Developer | 🧠 Problem Solver
 
 I build scalable backend systems and full-stack applications using **Java, Spring Boot, and Angular**.
 Focused on writing clean code, designing efficient APIs, and solving real-world problems.
@@ -103,7 +103,7 @@ Application to track expenses, income, and personal transactions.
 ## 📫 Connect
 
 * 💼 LinkedIn: https://www.linkedin.com/in/tanmaythakare
-* 🐙 GitHub: https://github.com/justTanmay
+* 🐙 GitHub: https://github.com/tanmayythakare
 * ✉️ Email: [tanmayrthakare@gmail.com](mailto:tanmayrthakare@gmail.com)
 
 ---
