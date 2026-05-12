@@ -101,8 +101,6 @@ Application to track expenses, income, and personal transactions.
 ---
 
 ## 📫 Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/tanmaythakare
 * 🐙 GitHub: https://github.com/tanmayythakare
 * ✉️ Email: [tanmayrthakare@gmail.com](mailto:tanmayrthakare@gmail.com)
 
