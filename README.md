@@ -55,18 +55,22 @@ DSA • REST APIs • OOP • Database Design
 
 ## 🚀 Projects
 
-### 🧠 Life OS — Productivity & Knowledge Management System
+### 🧠 Smart-SecondBrain — AI-Powered Personal Productivity OS
+🌐 [Live Demo](https://d3icm4v3pyidtw.cloudfront.net)
 
-A full-stack application to manage tasks, notes, and connected ideas.
+Full-stack AI productivity system with a RAG-based chat assistant 
+that reasons about your personal tasks and notes.
 
 **Key Features**
+- RAG pipeline — AI reads your actual data before responding
+- Real-time streaming responses via Server-Sent Events (SSE)
+- Vector embeddings stored in PostgreSQL for semantic search
+- Decision Engine routes queries (AI / Direct DB / Agentic actions)
+- JWT authentication with per-user data isolation
 
-* JWT-based authentication (multi-user system)
-* Task and notes management
-* Note linking with backlinks
-* Search functionality
+**Deployed on AWS** — EC2 + Docker + RDS + S3 + CloudFront + CI/CD via GitHub Actions
 
-**Tech:** Spring Boot • Angular • PostgreSQL
+**Tech:** Spring Boot • Angular • PostgreSQL • Google Gemini • Docker • AWS
 
 ---
 
